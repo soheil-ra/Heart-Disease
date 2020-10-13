@@ -39,9 +39,9 @@ First step to any data science project is to import the data. Often, we’ll wor
 **4. Cleaning Data**
 
 The chance of getting a perfectly cleaned dataset that meets all of our requirements is slim to none. So, we need to clean the data before we start modeling. Trying to skip the data cleaning steps, often runs into problems getting the raw data and not cleaned to work with traditional data cleansing tools for analysis the data. Thus, it becomes important to take into consideration, the data cleaning steps and data cleaning methods. Here is a checklist when it comes to cleaning the data:<br>
-- 1.	Checking for missing values by using **dataframe.isnull()** function:  The result came out False for all the columns in the dataset which meant that there were no null values within the data.
-- 2.	Checking for the zero values. The two features, 'chol' and 'trestbps’ include zero values which were removed from the dataset and replaced with the mean of the respective column.
-- 3.	Checking if any outliers existed. The boxplot method was applied to find the outliers for the numerical features, ‘chol', 'trestbps’, 'thalach', 'oldpeak', ‘age'.  Using **DelOutliers()** function to remove features (cp, trestbps, chol, thalach, fbs, oldpeak) outliers by using IQR Method.<br><br>
+  - Checking for missing values by using **dataframe.isnull()** function:  The result came out False for all the columns in the dataset which meant that there were no null values within the data.
+  - Checking for the zero values. The two features, 'chol' and 'trestbps’ include zero values which were removed from the dataset and replaced with the mean of the respective column.
+  - Checking if any outliers existed. The boxplot method was applied to find the outliers for the numerical features, ‘chol', 'trestbps’, 'thalach', 'oldpeak', ‘age'.  Using **DelOutliers()** function to remove features (cp, trestbps, chol, thalach, fbs, oldpeak) outliers by using IQR Method.<br><br>
 
 ![Outliers](https://user-images.githubusercontent.com/71153587/95880171-39e2c700-0d45-11eb-82c9-b1e6b6aa59c2.PNG)
 
