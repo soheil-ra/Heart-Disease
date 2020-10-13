@@ -65,8 +65,9 @@ By better understanding the answers to these questions we can validate whether w
            selection in machine learning and because visualization is generally easier to understand than reading tabular data, heatmaps are typically used to visualize 
            correlation matrices. A simple way to plot a heatmap in Python is by importing and implementing the Seaborn library. The heatmap shows that the maximum heart
            rate(thalach) doesn't seems to correlate significantly with a higher risk of heart disease but chest pain(cp), exercise induced angina(exang), ST depression induced
-           by exercise relative to rest(oldpeak), and the slope of the peak exercise ST segment(slope) are highly corrolate with a higher risk of heart disease. 
-
+           by exercise relative to rest(oldpeak), and the slope of the peak exercise ST segment(slope) are highly corrolate with a higher risk of heart disease.<br> 
+![heatmap](https://user-images.githubusercontent.com/71153587/95865721-fb451080-0d34-11eb-9b97-7789583fcefa.PNG)           
+           
 **6. Proposed Method and Experiments**<br><br>
      **6.1. Selecting Attribute Set**
             There may be many attributes related to a given prediction problem, but not all of them have strong association with the prediction. Hence, finding the relevant
