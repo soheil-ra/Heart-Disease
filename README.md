@@ -35,6 +35,7 @@ To build the model, we need some tools to make the process as seamless as possib
 **3. Reading CSV Files**
 
 First step to any data science project is to import the data. Often, we’ll work with data in Comma Separated Value (CSV) files. In order to start working on 'heart.csv' file, the dataset has to be read and loaded to the data frame by using **read_csv()** method.<br><br>
+![DataDescription](https://user-images.githubusercontent.com/71153587/95864655-b10f5f80-0d33-11eb-949b-a4451bccf6b6.png)
 
 **4. Cleaning Data**
 
