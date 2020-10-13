@@ -70,7 +70,9 @@ By better understanding the answers to these questions we can validate whether w
 ![heatmap](https://user-images.githubusercontent.com/71153587/95865721-fb451080-0d34-11eb-9b97-7789583fcefa.PNG) 
 
 **6. Visualization**<br><br>
+The below graphs show that from 1190 patients 629 were diagnosed and 561 were not diagnosed with heart disease and male more diagnosed with heart disease than female.<br><br>
 
+![V1](https://user-images.githubusercontent.com/71153587/95881857-099c2800-0d47-11eb-8df3-90ee46990fee.PNG)
 
 **7. Proposed Method and Experiments**<br><br>
      **7.1. Selecting Attribute Set**
