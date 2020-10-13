@@ -74,6 +74,12 @@ The below graphs show that from 1190 patients 629 were diagnosed and 561 were no
 
 ![V1](https://user-images.githubusercontent.com/71153587/95881857-099c2800-0d47-11eb-8df3-90ee46990fee.PNG)
 
+
+The below graphs show, that men are more susceptible to heart disease than women, the ST segment/heart rate slope as a predictor of coronary artery disease, individuals with heart disease are/have more likely to present with a flat slope and Less likely to present with a down slope, individuals with heart disease have Less likely to present with fbs <= 120 mg/dl. Blood sugar levels on fasting > 120 mg/dl represents as 1 in case of true and 0 as false, patients with the type 1 chest pain have less chance of getting heart disease and patients with type 4 have more chance and in the results of the types 2 and 3 chest pain is less heart problem. Here we see that individuals with heart disease have more likely to present with asymptomatic angina and less likely to present with typical angina.<br><br>
+
+
+![V2](https://user-images.githubusercontent.com/71153587/95882421-afe82d80-0d47-11eb-8e28-b97f85d46118.PNG)
+
 **7. Proposed Method and Experiments**<br><br>
      **7.1. Selecting Attribute Set**
             There may be many attributes related to a given prediction problem, but not all of them have strong association with the prediction. Hence, finding the relevant
