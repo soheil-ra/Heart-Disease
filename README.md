@@ -69,6 +69,8 @@ By better understanding the answers to these questions we can validate whether w
 **6. Visualization**<br><br>
 ![V1](https://user-images.githubusercontent.com/71153587/95878942-cab8a300-0d43-11eb-992b-4e182b1eb4ca.PNG)
 
+![V2](https://user-images.githubusercontent.com/71153587/95879736-b0cb9000-0d44-11eb-880f-a4f00dec4724.PNG)
+
 
 **7. Proposed Method and Experiments**<br><br>
      **7.1. Selecting Attribute Set**
