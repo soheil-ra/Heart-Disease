@@ -9,14 +9,13 @@ Machine learning involves artificial intelligence, and it is used in solving man
 - **5.    Exploring Data**<br>
    - **5.1.   Converting Categorical Variables to Numerical**<br>
    - **5.2.   Measuring the Correlation**<br>
-- **6.    Proposed Method and Experiments**<br>
-   - **6.1.  Selecting Attribute Set**<br>
-   - **6.2. Logistic Regression**<br>
-   - **6.3. Random Forest Classifier**<br>
-   - **6.4. K-Neighbors Classifier**<br>
-- **7.  Results and Discussion**<br>
-- **8.  Conclusion and Summary**<br>
-- **9.  References**<br>
+- **6.    Visualization**<br>   
+- **7.    Proposed Methods and Experiments**<br>
+   - **7.1.  Selecting Attribute Set**<br>
+   - **7.2.  Proposed Methods**<br>
+- **8.  Results and Discussion**<br>
+- **9.  Conclusion and Summary**<br>
+- **10.  References**<br>
 
 **1. Introduction**
 
@@ -67,16 +66,16 @@ By better understanding the answers to these questions we can validate whether w
            rate(thalach) doesn't seems to correlate significantly with a higher risk of heart disease but chest pain(cp), exercise induced angina(exang), ST depression induced
            by exercise relative to rest(oldpeak), and the slope of the peak exercise ST segment(slope) are highly corrolate with a higher risk of heart disease.<br> 
 ![heatmap](https://user-images.githubusercontent.com/71153587/95865721-fb451080-0d34-11eb-9b97-7789583fcefa.PNG)           
-           
-**6. Proposed Method and Experiments**<br><br>
-     **6.1. Selecting Attribute Set**
+**6. Visualization**<br><br>
+**7. Proposed Method and Experiments**<br><br>
+     **7.1. Selecting Attribute Set**
             There may be many attributes related to a given prediction problem, but not all of them have strong association with the prediction. Hence, finding the relevant
             attributes for a given prediction problem is important. In this project, relevant attributes for heart disease prediction are determined using correlation measure 
             and different combinations of selected features were chosen based on the degree of their correlation to the target value. It is found that the eleven attributes
             (age, sex, cp, trestbps, chol, fbs, restecg, thalach, exang, oldpeak, and slope) are being used while predicting heart diseases. In order to find the weight or rank
             of these attributes an experiment has been conducted. In this experiment the correlation between each attribute with target value is found out. In order to determine
             which feature set produces optimal accuracy, they were added one by one up to eleven by choosing the one with highest weight as the first attribute.<br><br>    
-     **6.2. Proposed Method**
+     **7.2. Proposed Method**
             To verify the study’s goal of predicting Presence of Heart Diseases, three different prediction models, and machine learning algorithms were used. Logistic
             Regression, Random Forest Classifier, and K-Nearest Neighbors Classifier were applied to validate the accuracy of the prediction.<br>
        
@@ -103,9 +102,10 @@ CM for the three following Models:<br>
 **7. Conclusion:**
 
 Although ML/DM techniques have many advantages, they may not be the perfect methods. According to the no-free-lunch theorem, different ML/DM algorithms are suitable for their own particular problems. One algorithm may work well on a specific dataset while it cannot show a good performance on some others. So, selecting a suitable algorithm for a specific dataset is a big challenge in bioinformatics. Consequently, selecting good feature selection or classification algorithms is also a big challenge in this field. Also, ML/DM algorithms commonly need massive datasets to be trained. These datasets must be inclusive and unbiased with high quality.[5]
-In this project, the first approach was to propose attributes for the prediction of heart diseases dataset by analyzing their correlation measures. It was found that the best combination for this purpose was a set of features with eleven attributes(age, sex, cp, trestbps, chol, fbs, restecg, thalach, exang, oldpeak, and slope). With using the data correlation result, different sets of attributes were selected for predicting process and the result was shown in table 13.1.2. Some of selected feature sets that considered to be tested as a dataset for the three models are; feature set with eleven attribute (age, trestbps, chol, thalach, oldpeak, sex, cp, fbs, restecg, exang, slope), three feature sets with three attributes (cp, exang, oldpeak), (exang, oldpeak, slope), (cp, exang, slope), feature set with four attributes (cp, exang, oldpeak, slope), feature set with seven attributes (sex, cp, fbs, restecg, exang, oldpeak, slope), feature set with eight attributes (tbs, sex, cp, fbs, restecg, exang, oldpeak, slope). These attributes were ranked according to the correlation measures and used with three prediction models for the purpose of accuracy prediction. The result shows that Random Forest Classifier with the accuracy score of 0.91 had the highest value among the three models, taking the eleven features as a dataset.
+In this project, the first approach was to propose attributes for the prediction of heart diseases dataset by analyzing their correlation measures. It was found that the best combination for this purpose was a set of features with eleven attributes(age, sex, cp, trestbps, chol, fbs, restecg, thalach, exang, oldpeak, and slope). With using the data correlation result, different sets of attributes were selected for predicting process and the result was shown in table 13.1.2. Some of selected feature sets that considered to be tested as a dataset for the three models are; feature set with eleven attribute (age, trestbps, chol, thalach, oldpeak, sex, cp, fbs, restecg, exang, slope), three feature sets with three attributes (cp, exang, oldpeak), (exang, oldpeak, slope), (cp, exang, slope), feature set with four attributes (cp, exang, oldpeak, slope), feature set with seven attributes (sex, cp, fbs, restecg, exang, oldpeak, slope), feature set with eight attributes (tbs, sex, cp, fbs, restecg, exang, oldpeak, slope). These attributes were ranked according to the correlation measures and used with three prediction models for the purpose of accuracy prediction. The result shows that Random Forest Classifier with the accuracy score of 0.90 had the highest value among the three models, taking the eleven features as a dataset.
 In this project, it was considered to use the recommended feature set to study the impact of three techniques in enhancing the accuracy of classifiers and their results were compared based on their CM (Confusion Matrix) method.
 For the future work, measuring the accuracy values of different classifiers, would be obtained for all possible feature sets.<br><br>
+![Result](https://user-images.githubusercontent.com/71153587/95873506-fcc70680-0d3d-11eb-9b46-73619660bb83.PNG)
 
 **8. References:**
 -  [1] https://cxl.com/blog/outliers/
