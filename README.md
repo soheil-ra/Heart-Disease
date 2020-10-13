@@ -67,6 +67,9 @@ By better understanding the answers to these questions we can validate whether w
            by exercise relative to rest(oldpeak), and the slope of the peak exercise ST segment(slope) are highly corrolate with a higher risk of heart disease.<br> 
 ![heatmap](https://user-images.githubusercontent.com/71153587/95865721-fb451080-0d34-11eb-9b97-7789583fcefa.PNG)           
 **6. Visualization**<br><br>
+![V1](https://user-images.githubusercontent.com/71153587/95878942-cab8a300-0d43-11eb-992b-4e182b1eb4ca.PNG)
+
+
 **7. Proposed Method and Experiments**<br><br>
      **7.1. Selecting Attribute Set**
             There may be many attributes related to a given prediction problem, but not all of them have strong association with the prediction. Hence, finding the relevant
