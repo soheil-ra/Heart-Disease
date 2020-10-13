@@ -98,6 +98,7 @@ CM for the three following Models:<br>
 -	FP = # False Positives,<br> 
 -	FN = # False Negatives),<br>
 **Accuracy = (TP + TN) / (TP + TN + FP + FN)**<br>
+![Capture](https://user-images.githubusercontent.com/71153587/95868104-e74ede00-0d37-11eb-9692-e51bd3322cfe.PNG)
 
 **7. Conclusion:**
 
