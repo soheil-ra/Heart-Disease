@@ -1,5 +1,5 @@
 ## Predicting Presence of Heart Diseases Using Machine Learning
-[Exploring Data section](./child.md#Exploring Data)
+[Exploring Data section](./README.md#Exploring Data)
  
 **Abstract**
 
