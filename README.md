@@ -4,11 +4,11 @@
 
 **Table of Content**<br>
 ---
-**1. Overview -** [Overview](https://github.com/soheil-ra/Heart-Disease#overview)<br>
-**2. Goal -** [Goal](https://github.com/soheil-ra/Heart-Disease#Goal)<br>
-**3. Motivation & Background -** [Motivation & Background](https://github.com/soheil-ra/Heart-Disease#Motivation-&-Background)<br>
+**1. Overview -** [Overview](https://github.com/soheil-ra/Heart-Disease#Overview)<br>
+**2. Goals -** [Goal](https://github.com/soheil-ra/Heart-Disease#Goals)<br>
+**3. Motivation & Background -** [Motivation & Background](https://github.com/soheil-ra/Heart-Disease#Motivation-and-Background)<br>
 **4. Data -** [Data](https://github.com/soheil-ra/Heart-Disease#Data)<br>
-**5. Heart Disease County-level maps -** [Country Level Map](https://github.com/soheil-ra/Heart-Disease#Country_Level_Map)<br><br>
+**5. Heart Disease County-level maps -** [Country Level Map](https://github.com/soheil-ra/Heart-Disease#Country-Level-Map)<br><br>
 
 ## **Overview**<br>
 This project classifies whether a person is suffering from heart disease or not, by applying 3 common Machine Learning techniques, Logistic Regression, Random Forest Classifier, and K-Nearest Neighbor Classifier.<br>
@@ -18,7 +18,7 @@ The achivement for this project are:<br><br>
 **1. Preparing Data:** This section includes, Cleaning, Exploring and Visulizing data.<br>
 **2. Proposing Methods & Experiments:** Selecting three commonly Supervised Machine Learning methodes and comparing the outcomes upon existing data for predicting heart diseases.<br>
 
-## **Motivation & Background**<br>
+## **Motivation and Background**<br>
 Looking at the report from Centers for Disease Control and Prevention (CDC) report about heart diseases in the United States was a motivation to choose this subject for my study. According to  CDC, Heart disease is the leading cause of death for men, women, and people of most racial and ethnic groups in the United States. One person dies every 36 seconds in the United States from cardiovascular disease. About 655,000 Americans die from heart disease each year—that’s 1 in every 4 deaths. Heart disease costs the United States about $219 billion each year from 2014 to 2015. This includes the cost of health care services, medicines, and lost productivity due to death.<br>
 
 ![Capture22](https://user-images.githubusercontent.com/71153587/96143182-da192700-0ed0-11eb-9090-79c6c55b08f2.PNG)<br>
