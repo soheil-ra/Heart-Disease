@@ -8,7 +8,7 @@
 **2. Goal -** [Goal](https://github.com/soheil-ra/Heart-Disease#Goal)<br>
 **3. Motivation & Background -** [Motivation & Background](https://github.com/soheil-ra/Heart-Disease#Motivation-&-Background)<br>
 **4. Data -** [Data](https://github.com/soheil-ra/Heart-Disease#Data)<br>
-**5. Project Info -** [Project Info](https://github.com/soheil-ra/Heart-Disease#Project-Info)<br><br>
+**5. Heart Disease County-level maps -** [Country Level Map](https://github.com/soheil-ra/Heart-Disease#Country_Level_Map)<br><br>
 
 **Overview**<br>
 ---
@@ -43,12 +43,11 @@ The dataset have been collected from Kaggle (https://www.kaggle.com/sid321axn/he
 **11. slope -** The slope of the peak exercise ST segment<br>
 **12. diagnosis -** The target cariable with 1 value for having disease and 0 value for not having disease.<br>
 
+**Country Level Map**<br>
 <pre>
 Related Studies :
-
-https://www.cdc.gov/heartdisease/facts.htm <a href=https://www.cdc.gov/dhdsp/maps/atlas/index.htm>Link</a>
-
-
+CDC’s Interactive Atlas of Heart Disease and Stroke is an online mapping tool that allows users to create and customize county-level maps of heart disease and stroke by race and ethnicity, gender, age group, and more.<br>
+Launch the Interactive Atlas <a href=https://www.cdc.gov/dhdsp/maps/atlas/index.htm>Link</a>
 </pre>
 
 <pre>
