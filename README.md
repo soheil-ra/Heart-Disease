@@ -25,8 +25,6 @@ The achivement for this project are:<br><br>
 
 Looking at the report from Centers for Disease Control and Prevention (CDC) report about heart diseases in the United States was a motivation to choose this subject for my study. According to  CDC, Heart disease is the leading cause of death for men, women, and people of most racial and ethnic groups in the United States. One person dies every 36 seconds in the United States from cardiovascular disease. About 655,000 Americans die from heart disease each year—that’s 1 in every 4 deaths. Heart disease costs the United States about $219 billion each year from 2014 to 2015. This includes the cost of health care services, medicines, and lost productivity due to death.<br><br>
 
-![Capture22](https://user-images.githubusercontent.com/71153587/96143182-da192700-0ed0-11eb-9090-79c6c55b08f2.PNG)<br><br>
-**Data**<br>
 ---
 The dataset have been collected from Kaggle (https://www.kaggle.com/sid321axn/heart-statlog-cleveland-hungary-final), consisting of 1190 records of patients from US, UK, Switzerland and Hungary having 11 features and 1 target variable representing as follow:<br>
 
