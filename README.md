@@ -4,11 +4,11 @@
 
 **Table of Content**<br>
 ---
-**1. Overview**<br>
-**2. Goal**<br>
-**3. Motivation & Background**<br>
-**4. Data**<br>
-**5. Project Info**<br><br>
+**1. Overview -** [Overview](https://github.com/soheil-ra/Heart-Disease#overview)<br>
+**2. Goal -** [Goal](https://github.com/soheil-ra/Heart-Disease#Goal)<br>
+**3. Motivation & Background -** [Motivation & Background](https://github.com/soheil-ra/Heart-Disease#Motivation-&-Background)<br>
+**4. Data -** [Data](https://github.com/soheil-ra/Heart-Disease#Data)<br>
+**5. Project Info -** [Project Info](https://github.com/soheil-ra/Heart-Disease#Project-Info)<br><br>
 
 **Overview**<br>
 ---
@@ -23,6 +23,8 @@ The achivement for this project are:<br><br>
 **Motivation & Background**<br>
 ---
 Looking at the report from Centers for Disease Control and Prevention (CDC) report about heart diseases in the United States was a motivation to choose this subject for my study. According to  CDC, Heart disease is the leading cause of death for men, women, and people of most racial and ethnic groups in the United States. One person dies every 36 seconds in the United States from cardiovascular disease. About 655,000 Americans die from heart disease each year—that’s 1 in every 4 deaths. Heart disease costs the United States about $219 billion each year from 2014 to 2015. This includes the cost of health care services, medicines, and lost productivity due to death.<br>
+
+![Capture22](https://user-images.githubusercontent.com/71153587/96143182-da192700-0ed0-11eb-9090-79c6c55b08f2.PNG)<br>
 
 **Data**
 ---
@@ -41,14 +43,31 @@ The dataset have been collected from Kaggle (https://www.kaggle.com/sid321axn/he
 **11. slope -** The slope of the peak exercise ST segment<br>
 **12. diagnosis -** The target cariable with 1 value for having disease and 0 value for not having disease.<br>
 
-**Presentation Video**
----
+<pre>
+Related Studies :
 
-Contributors : Soheila Rahmani<br>
+https://www.cdc.gov/heartdisease/facts.htm <a href=https://www.cdc.gov/dhdsp/maps/atlas/index.htm>Link</a>
 
-Languages    : Python<br>
-Tools/IDE    : Anaconda<br>
-Libraries    : pandas, numpy, matplotlib, seaborn, sklearn<br>
 
+</pre>
+
+<pre>
+Video Presentation : 
+</pre>
+
+<pre>
+Contributors : <a href=https://github.com/soheil-ra>Soheila Rahmani</a>
+</pre>
+
+<pre>
+Languages    : Python
+Tools/IDE    : Anaconda
+Libraries    : pandas, numpy, matplotlib, seaborn, sklearn
+</pre>
+
+<pre>
+Duration     : October 2020
+Last Update  : 10.13.2020
+</pre>
 
 
