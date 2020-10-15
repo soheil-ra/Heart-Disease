@@ -8,7 +8,7 @@
 **2. Goals -** [Goal](https://github.com/soheil-ra/Heart-Disease#Goals)<br>
 **3. Motivation & Background -** [Motivation & Background](https://github.com/soheil-ra/Heart-Disease#Motivation-and-Background)<br>
 **4. Data -** [Data](https://github.com/soheil-ra/Heart-Disease#Data)<br>
-**5. Heart Disease County-level maps -** [Country Level Map](https://github.com/soheil-ra/Heart-Disease#Country-Level-Map)<br><br>
+**5. Heart Disease County-level maps -** [Country Level Map](https://github.com/soheil-ra/Heart-Disease#Heart-Disease-Country-Level-Map)<br><br>
 
 ## **Overview**<br>
 This project classifies whether a person is suffering from heart disease or not, by applying 3 common Machine Learning techniques, Logistic Regression, Random Forest Classifier, and K-Nearest Neighbor Classifier.<br>
@@ -39,7 +39,9 @@ The dataset have been collected from Kaggle (https://www.kaggle.com/sid321axn/he
 **11. slope -** The slope of the peak exercise ST segment<br>
 **12. diagnosis -** The target cariable with 1 value for having disease and 0 value for not having disease.<br>
 
-## **Country Level Map**<br>
+## **Heart Disease Country Level Map**<br>
+
+![Map](https://user-images.githubusercontent.com/71153587/96163827-6256f680-0ee8-11eb-83ac-e7fbb79496f5.PNG)<br>
 <pre>
 Related Studies :
 CDC’s Interactive Atlas of Heart Disease and Stroke is an online mapping tool that allows users to create and customize county-level maps of heart disease and stroke by race and ethnicity, gender, age group, and more.<br>
