@@ -49,7 +49,7 @@ Launch the Interactive Atlas <a href=https://www.cdc.gov/dhdsp/maps/atlas/index.
 </pre>
 
 <pre>
-Video Presentation : https://youtu.be/1hmjRTsIzik
+Video Presentation : <a href=https://youtu.be/1hmjRTsIzik>Presentation Preview </a></a>
 </pre>
 
 <pre>
