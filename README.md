@@ -1,4 +1,3 @@
-# Heart-Disease
 # Heart Diseases Prediction
 ![shutterstock_594641939-e1553190307965](https://user-images.githubusercontent.com/71153587/96128464-63296180-0ec3-11eb-84ec-d5bd606244a7.jpg)<br><br>
 [Exploring Data section](./README.md#Exploring Data)
